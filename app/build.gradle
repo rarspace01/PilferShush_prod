@@ -5,7 +5,7 @@ android {
     defaultConfig {
         applicationId "cityfreqs.com.pilfershush_prod"
         minSdkVersion 18
-        targetSdkVersion 26
+        targetSdkVersion 28
         versionCode 5
         versionName "3.0.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
